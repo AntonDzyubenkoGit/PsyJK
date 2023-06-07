@@ -1,0 +1,10 @@
+@font-face {
+  font-family: 'Montserrat Alternates Medium';
+  src: url(./Montserrat+Alternates+Medium.eot);
+  src: url(./Montserrat+Alternates+Medium.eot?#iefix) format('embedded-opentype'),
+       url(./Montserrat+Alternates+Medium.otf) format('otf'),
+       url(./Montserrat+Alternates+Medium.svg#Montserrat%20Alternates%20Medium) format('svg'),
+       url(./Montserrat+Alternates+Medium.ttf) format('truetype'),
+       url(./Montserrat+Alternates+Medium.woff2) format('woff2'),
+       url(./Montserrat+Alternates+Medium.woff) format('woff');
+}

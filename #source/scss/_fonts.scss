@@ -1,0 +1,56 @@
+@font-face {
+   font-family: 'Caveat';
+   src: url('/fonts/CaveatRegular/Caveat-Regular.eot');
+   src: url('/fonts/CaveatRegular/Caveat-Regular.eot?#iefix') format('embedded-opentype'),
+       url('/fonts/CaveatRegular/Caveat-Regular.woff2') format('woff2'),
+       url('/fonts/CaveatRegular/Caveat-Regular.woff') format('woff'),
+       url('/fonts/CaveatRegular/Caveat-Regular.ttf') format('truetype'),
+       url('/fonts/CaveatRegular/Caveat-Regular.svg#Caveat-Regular') format('svg');
+   font-weight: 400;
+   font-style: normal;
+   font-display: swap;
+}
+
+ @font-face {
+   font-family: 'MontserratAlternates';
+   src: url('/fonts/MontserratAlternates-Regular/MontserratAlternates-Regular.eot');
+   src: url('/fonts/MontserratAlternates-Regular/MontserratAlternates-Regular.eot?#iefix') format('embedded-opentype'),
+       url('/fonts/MontserratAlternates-Regular/MontserratAlternates-Regular.woff2') format('woff2'),
+       url('/fonts/MontserratAlternates-Regular/MontserratAlternates-Regular.woff') format('woff'),
+       url('/fonts/MontserratAlternates-Regular/MontserratAlternates-Regular.ttf') format('truetype'),
+       url('/fonts/MontserratAlternates-Regular/MontserratAlternates-Regular.svg#MontserratAlternates-Regular') format('svg');
+   font-weight: 400;
+   font-style: normal;
+   font-display: swap;
+}
+ 
+@font-face {
+   font-family: 'MontserratAlternatesMedium';
+   src: url('/fonts/MontserratAlternates-Medium/MontserratAlternatesMedium.eot');
+   src: url('/fonts/MontserratAlternates-Medium/MontserratAlternatesMedium.eot?#iefix') format('embedded-opentype'),
+        url('/fonts/MontserratAlternates-Medium/MontserratAlternatesMedium.otf') format('otf'),       
+        url('/fonts/MontserratAlternates-Medium/MontserratAlternatesMedium.ttf') format('truetype'),
+        url('/fonts/MontserratAlternates-Medium/MontserratAlternatesMedium.woff2') format('woff2'),
+        url('/fonts/MontserratAlternates-Medium/MontserratAlternatesMedium.woff') format('woff'),
+        url('/fonts/MontserratAlternates-Medium/MontserratAlternatesMedium.svg') format('woff');
+   font-weight: 500;
+   font-style: normal;
+   font-display: swap;
+ }
+
+ @font-face {
+   font-family: 'MontserratAlternatesBold';
+   src: url('/fonts/MontserratAlternates-Bold/MontserratAlternatesBold.eot');
+   src: url('/fonts/MontserratAlternates-Bold/MontserratAlternatesBold.eot?#iefix') format('embedded-opentype'),
+        url('/fonts/MontserratAlternates-Bold/MontserratAlternatesBold.otf') format('otf'),       
+        url('/fonts/MontserratAlternates-Bold/MontserratAlternatesBold.ttf') format('truetype'),
+        url('/fonts/MontserratAlternates-Bold/MontserratAlternatesBold.woff2') format('woff2'),
+        url('/fonts/MontserratAlternates-Bold/MontserratAlternatesBold.woff') format('woff'),
+        url('/fonts/MontserratAlternates-Bold/MontserratAlternatesBold.svg') format('woff');
+   font-weight: 700;
+   font-style: normal;
+   font-display: swap;
+ }
+
+ @import url('https://fonts.googleapis.com/css?family=PT+Sans:italic');
+ 

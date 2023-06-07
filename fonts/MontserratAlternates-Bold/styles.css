@@ -1,0 +1,10 @@
+@font-face {
+  font-family: 'Montserrat Alternates Bold';
+  src: url(./Montserrat+Alternates+Bold.eot);
+  src: url(./Montserrat+Alternates+Bold.eot?#iefix) format('embedded-opentype'),
+       url(./Montserrat+Alternates+Bold.otf) format('otf'),
+       url(./Montserrat+Alternates+Bold.svg#Montserrat%20Alternates%20Bold) format('svg'),
+       url(./Montserrat+Alternates+Bold.ttf) format('truetype'),
+       url(./Montserrat+Alternates+Bold.woff) format('woff'),
+       url(./Montserrat+Alternates+Bold.woff2) format('woff2');
+}
